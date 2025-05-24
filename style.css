@@ -3,3 +3,13 @@ body {
   text-align: center;
   padding: 2rem;
 }
+
+#installBtn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
